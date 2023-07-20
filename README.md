@@ -1,5 +1,10 @@
 This repository contains code and resources for a project that uses **natural language processing techniques** to analyze text data and provide recommendations. Our goal is to develop a system that can accurately classify and understand text, and use this information to make personalized **recommendations to users**.
 
+## Download Files 
+Some of the datasets used in this project are too large to upload to GitHub. They must be downloaded and added in the specified formats within the data folder.
+- Reviews.csv $\rightarrow$ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
+- glove.6B.50d.txt $\rightarrow$ https://nlp.stanford.edu/projects/glove/
+
 ## Installation
 
 Before running the code in this repository, you'll need to install the required packages. We recommend doing this in a virtual environment to avoid conflicts with other packages on your system.
